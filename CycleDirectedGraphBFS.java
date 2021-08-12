@@ -5,7 +5,7 @@ public class GFG
 {
  
     // Class to represent a graph
-    static class Graph
+    static class CycleDirectedGraphBFS
     {
         int V; // No. of vertices'
  
